@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 hello guys!
 I am Lulu, a master from technology of Beijing University.
 I like machine learning, deep learning and linux.
